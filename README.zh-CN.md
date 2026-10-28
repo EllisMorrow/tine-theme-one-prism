@@ -8,6 +8,8 @@
 
 One Light 与 One Dark 合为一款 Tine 主题，以安静的中性底色，映衬熟悉的蓝与紫。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![One · Prism 深色模式实拍](docs/one-dark.png)

@@ -15,6 +15,8 @@
 
 One Light and One Dark come together in a single Tine theme, pairing quiet neutral surfaces with familiar blue and violet accents.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![One · Prism in Tine dark mode](docs/one-dark.png)
